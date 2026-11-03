@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BiMaUmisc"]
+	path = BiMaUmisc
+	url = https://github.com/bimau-pccb/bimaumisc
 [submodule "TDIagree"]
 	path = TDIagree
 	url = https://github.com/bimau-pccb/tdiagree
